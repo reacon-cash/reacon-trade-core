@@ -1,4 +1,4 @@
-# Pancake Factory
+# Reacon Trade Factory
 
 [![Actions Status](https://github.com/reacon-cash/reacon-trade-core/workflows/CI/badge.svg)](https://github.com/reacon-cash/reacon-trade-core/actions)
 
